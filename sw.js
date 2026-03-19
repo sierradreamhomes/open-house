@@ -1,5 +1,5 @@
 /* Service Worker — Hodgins Open House PWA */
-const CACHE_NAME = 'hodgins-openhouse-v16';
+const CACHE_NAME = 'hodgins-openhouse-v17';
 const ASSETS = [
   './',
   './index.html',
